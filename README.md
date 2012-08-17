@@ -16,3 +16,8 @@ DIR LIST
 ========
 * /extension/ = directory with launcher extension
 * /scripts/ = maps+binaries for map generation
+
+DISCUSSION
+==========
+The discussion to this project is on there might be more up to date project status/todo
+http://www.mobileread.com/forums/showthread.php?t=188261
