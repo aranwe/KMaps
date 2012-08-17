@@ -6,7 +6,10 @@ Map viewing app for Kindle Touch
 
 TODO
 ====
-* First commit
+* Map Loader - undo the static variables on the beginning
+* Solve the dithered rendering
+* write script for map downloading
+* write script / create filter for image filtering - greyscale+4bit+compression
 
 
 DIR LIST
