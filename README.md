@@ -11,5 +11,5 @@ TODO
 
 DIR LIST
 ========
-/extension/ = directory with launcher extension
-/scripts/ = maps+binaries for map generation
+* /extension/ = directory with launcher extension
+* /scripts/ = maps+binaries for map generation
