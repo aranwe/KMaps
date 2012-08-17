@@ -19,5 +19,6 @@ DIR LIST
 
 DISCUSSION
 ==========
-The discussion to this project is on there might be more up to date project status/todo
+The discussion to this project is on mobilread forum:
 http://www.mobileread.com/forums/showthread.php?t=188261
+There might be more up to date project status/todo.
