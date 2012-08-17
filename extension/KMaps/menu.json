@@ -1,0 +1,5 @@
+{
+	"items": [
+		{"name": "KMaps", "priority": 9, "action": "/mnt/us/extensions/KMaps/run.sh"}
+	]
+}

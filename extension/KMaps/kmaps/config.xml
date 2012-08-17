@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns="http://www.w3.org/ns/widgets" 
+    id="com.aranwe.kmaps"
+    version="0.1"
+    viewmodes="application">
+    
+    <name>KMaps</name>
+    <description>KMaps</description>
+    <content src="index.html" />
+
+    <!--
+        features are used to control the JS API that will be available to a
+        waf application.
+    -->
+
+    	<kindle:gestures>
+        <param name="drag" value="yes"/>
+        <param name="pinchzoom" value="yes" properties="fire-on-zoom:1"/>
+        <param name="tap" value="yes"/>
+        <param name="multi_tap" value="no"/>
+        <param name="hold" value="yes"/>
+    </kindle:gestures>
+
+	<feature name="http://kindle.amazon.com/apis" required="true">
+        <param name="appmgr" value="yes"/>
+        <param name="chrome" value="yes"/>
+        <param name="dev" value="yes"/>
+        <param name="download" value="yes"/>
+        <param name="gestures" value="yes"/>
+        <param name="messaging" value="yes"/>
+        <param name="net" value="yes"/>
+         <param name="pinchzoom" value="no"/>
+        <param name="swipe" value="no"/>
+        <param name="viewport" value="yes"/>
+    </feature>
+
+	<kindle:messaging>
+       	<kindle:app name="com.lab126.pillow" value="yes"/>
+		<kindle:app name="com.lab126.system" value="yes"/>
+    	</kindle:messaging>
+	
+	<kindle:chrome>
+        	<kindle:asset key="useCustomSearchBar" value="true"/>
+    	</kindle:chrome>
+
+    
+    
+</widget>
+

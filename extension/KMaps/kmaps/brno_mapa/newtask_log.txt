@@ -1,0 +1,264 @@
+Project: C:\Users\4RW\Desktop\brno_mapa\newtask.egmd
+Now time is:8.7.2012 22:35:14
+
+[MapsType]
+MapsType=0
+
+Left Longitude  input= 16
+Right Longitude input= 17
+Top Latitude    input= 50
+Bottom Latitude input= 49
+
+MinX = 2230
+MinY = 1389
+MaxX = 2241
+MaxY = 1406
+
+Left Longitude  download=15,99609375
+Right Longitude download=17,05078125
+Top Latitude    download=50,0077390108542
+Bottom Latitude download=48,9802169816176
+
+All images' scope information are saved to C:\Users\4RW\Desktop\brno_mapa\newtask_list.txt
+
+Total count of images would be downloaded: 216
+
+Download threads count: 8
+
+Zoom level: 12
+
+path: C:\Users\4RW\Desktop\brno_mapa\
+
+Start downloading...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+T1:seq=8,gm_2230_1396_12.png OK
+T2:seq=1,gm_2230_1389_12.png OK
+T4:seq=3,gm_2230_1391_12.png OK
+T5:seq=4,gm_2230_1392_12.png OK
+T6:seq=5,gm_2230_1393_12.png OK
+T3:seq=2,gm_2230_1390_12.png OK
+T7:seq=6,gm_2230_1394_12.png OK
+T8:seq=7,gm_2230_1395_12.png OK
+T2:seq=9,gm_2230_1397_12.png OK
+T1:seq=16,gm_2230_1404_12.png OK
+T4:seq=11,gm_2230_1399_12.png OK
+T5:seq=12,gm_2230_1400_12.png OK
+T6:seq=13,gm_2230_1401_12.png OK
+T3:seq=10,gm_2230_1398_12.png OK
+T7:seq=14,gm_2230_1402_12.png OK
+T8:seq=15,gm_2230_1403_12.png OK
+T2:seq=17,gm_2230_1405_12.png OK
+T1:seq=24,gm_2231_1394_12.png OK
+T5:seq=20,gm_2231_1390_12.png OK
+T4:seq=19,gm_2231_1389_12.png OK
+T6:seq=21,gm_2231_1391_12.png OK
+T3:seq=18,gm_2230_1406_12.png OK
+T7:seq=22,gm_2231_1392_12.png OK
+T8:seq=23,gm_2231_1393_12.png OK
+T2:seq=25,gm_2231_1395_12.png OK
+T1:seq=32,gm_2231_1402_12.png OK
+T5:seq=28,gm_2231_1398_12.png OK
+T6:seq=29,gm_2231_1399_12.png OK
+T4:seq=27,gm_2231_1397_12.png OK
+T3:seq=26,gm_2231_1396_12.png OK
+T7:seq=30,gm_2231_1400_12.png OK
+T8:seq=31,gm_2231_1401_12.png OK
+T2:seq=33,gm_2231_1403_12.png OK
+T1:seq=40,gm_2232_1392_12.png OK
+T5:seq=36,gm_2231_1406_12.png OK
+T4:seq=35,gm_2231_1405_12.png OK
+T6:seq=37,gm_2232_1389_12.png OK
+T3:seq=34,gm_2231_1404_12.png OK
+T7:seq=38,gm_2232_1390_12.png OK
+T8:seq=39,gm_2232_1391_12.png OK
+T2:seq=41,gm_2232_1393_12.png OK
+T1:seq=48,gm_2232_1400_12.png OK
+T5:seq=44,gm_2232_1396_12.png OK
+T4:seq=43,gm_2232_1395_12.png OK
+T6:seq=45,gm_2232_1397_12.png OK
+T3:seq=42,gm_2232_1394_12.png OK
+T8:seq=47,gm_2232_1399_12.png OK
+T7:seq=46,gm_2232_1398_12.png OK
+T1:seq=56,gm_2233_1390_12.png OK
+T2:seq=49,gm_2232_1401_12.png OK
+T5:seq=52,gm_2232_1404_12.png OK
+T4:seq=51,gm_2232_1403_12.png OK
+T6:seq=53,gm_2232_1405_12.png OK
+T3:seq=50,gm_2232_1402_12.png OK
+T7:seq=54,gm_2232_1406_12.png OK
+T8:seq=55,gm_2233_1389_12.png OK
+T2:seq=57,gm_2233_1391_12.png OK
+T1:seq=64,gm_2233_1398_12.png OK
+T5:seq=60,gm_2233_1394_12.png OK
+T6:seq=61,gm_2233_1395_12.png OK
+T3:seq=58,gm_2233_1392_12.png OK
+T4:seq=59,gm_2233_1393_12.png OK
+T7:seq=62,gm_2233_1396_12.png OK
+T8:seq=63,gm_2233_1397_12.png OK
+T1:seq=72,gm_2233_1406_12.png OK
+T2:seq=65,gm_2233_1399_12.png OK
+T5:seq=68,gm_2233_1402_12.png OK
+T4:seq=67,gm_2233_1401_12.png OK
+T6:seq=69,gm_2233_1403_12.png OK
+T3:seq=66,gm_2233_1400_12.png OK
+T7:seq=70,gm_2233_1404_12.png OK
+T8:seq=71,gm_2233_1405_12.png OK
+T1:seq=80,gm_2234_1396_12.png OK
+T5:seq=76,gm_2234_1392_12.png OK
+T2:seq=73,gm_2234_1389_12.png OK
+T4:seq=75,gm_2234_1391_12.png OK
+T6:seq=77,gm_2234_1393_12.png OK
+T3:seq=74,gm_2234_1390_12.png OK
+T7:seq=78,gm_2234_1394_12.png OK
+T8:seq=79,gm_2234_1395_12.png OK
+T1:seq=88,gm_2234_1404_12.png OK
+T5:seq=84,gm_2234_1400_12.png OK
+T2:seq=81,gm_2234_1397_12.png OK
+T6:seq=85,gm_2234_1401_12.png OK
+T3:seq=82,gm_2234_1398_12.png OK
+T7:seq=86,gm_2234_1402_12.png OK
+T4:seq=83,gm_2234_1399_12.png OK
+T8:seq=87,gm_2234_1403_12.png OK
+T5:seq=92,gm_2235_1390_12.png OK
+T2:seq=89,gm_2234_1405_12.png OK
+T1:seq=96,gm_2235_1394_12.png OK
+T6:seq=93,gm_2235_1391_12.png OK
+T3:seq=90,gm_2234_1406_12.png OK
+T7:seq=94,gm_2235_1392_12.png OK
+T4:seq=91,gm_2235_1389_12.png OK
+T8:seq=95,gm_2235_1393_12.png OK
+T5:seq=100,gm_2235_1398_12.png OK
+T2:seq=97,gm_2235_1395_12.png OK
+T1:seq=104,gm_2235_1402_12.png OK
+T6:seq=101,gm_2235_1399_12.png OK
+T7:seq=102,gm_2235_1400_12.png OK
+T4:seq=99,gm_2235_1397_12.png OK
+T3:seq=98,gm_2235_1396_12.png OK
+T8:seq=103,gm_2235_1401_12.png OK
+T5:seq=108,gm_2235_1406_12.png OK
+T1:seq=112,gm_2236_1392_12.png OK
+T2:seq=105,gm_2235_1403_12.png OK
+T6:seq=109,gm_2236_1389_12.png OK
+T7:seq=110,gm_2236_1390_12.png OK
+T4:seq=107,gm_2235_1405_12.png OK
+T3:seq=106,gm_2235_1404_12.png OK
+T8:seq=111,gm_2236_1391_12.png OK
+T5:seq=116,gm_2236_1396_12.png OK
+T1:seq=120,gm_2236_1400_12.png OK
+T2:seq=113,gm_2236_1393_12.png OK
+T6:seq=117,gm_2236_1397_12.png OK
+T7:seq=118,gm_2236_1398_12.png OK
+T4:seq=115,gm_2236_1395_12.png OK
+T3:seq=114,gm_2236_1394_12.png OK
+T8:seq=119,gm_2236_1399_12.png OK
+T5:seq=124,gm_2236_1404_12.png OK
+T1:seq=128,gm_2237_1390_12.png OK
+T2:seq=121,gm_2236_1401_12.png OK
+T6:seq=125,gm_2236_1405_12.png OK
+T7:seq=126,gm_2236_1406_12.png OK
+T4:seq=123,gm_2236_1403_12.png OK
+T8:seq=127,gm_2237_1389_12.png OK
+T3:seq=122,gm_2236_1402_12.png OK
+T5:seq=132,gm_2237_1394_12.png OK
+T2:seq=129,gm_2237_1391_12.png OK
+T1:seq=136,gm_2237_1398_12.png OK
+T6:seq=133,gm_2237_1395_12.png OK
+T7:seq=134,gm_2237_1396_12.png OK
+T4:seq=131,gm_2237_1393_12.png OK
+T8:seq=135,gm_2237_1397_12.png OK
+T3:seq=130,gm_2237_1392_12.png OK
+T5:seq=140,gm_2237_1402_12.png OK
+T1:seq=144,gm_2237_1406_12.png OK
+T2:seq=137,gm_2237_1399_12.png OK
+T7:seq=142,gm_2237_1404_12.png OK
+T6:seq=141,gm_2237_1403_12.png OK
+T4:seq=139,gm_2237_1401_12.png OK
+T8:seq=143,gm_2237_1405_12.png OK
+T3:seq=138,gm_2237_1400_12.png OK
+T5:seq=148,gm_2238_1392_12.png OK
+T2:seq=145,gm_2238_1389_12.png OK
+T1:seq=152,gm_2238_1396_12.png OK
+T7:seq=150,gm_2238_1394_12.png OK
+T6:seq=149,gm_2238_1393_12.png OK
+T4:seq=147,gm_2238_1391_12.png OK
+T8:seq=151,gm_2238_1395_12.png OK
+T3:seq=146,gm_2238_1390_12.png OK
+T5:seq=156,gm_2238_1400_12.png OK
+T2:seq=153,gm_2238_1397_12.png OK
+T1:seq=160,gm_2238_1404_12.png OK
+T7:seq=158,gm_2238_1402_12.png OK
+T6:seq=157,gm_2238_1401_12.png OK
+T4:seq=155,gm_2238_1399_12.png OK
+T8:seq=159,gm_2238_1403_12.png OK
+T3:seq=154,gm_2238_1398_12.png OK
+T5:seq=164,gm_2239_1390_12.png OK
+T2:seq=161,gm_2238_1405_12.png OK
+T1:seq=168,gm_2239_1394_12.png OK
+T7:seq=166,gm_2239_1392_12.png OK
+T6:seq=165,gm_2239_1391_12.png OK
+T4:seq=163,gm_2239_1389_12.png OK
+T8:seq=167,gm_2239_1393_12.png OK
+T3:seq=162,gm_2238_1406_12.png OK
+T5:seq=172,gm_2239_1398_12.png OK
+T2:seq=169,gm_2239_1395_12.png OK
+T1:seq=176,gm_2239_1402_12.png OK
+T7:seq=174,gm_2239_1400_12.png OK
+T6:seq=173,gm_2239_1399_12.png OK
+T4:seq=171,gm_2239_1397_12.png OK
+T8:seq=175,gm_2239_1401_12.png OK
+T3:seq=170,gm_2239_1396_12.png OK
+T5:seq=180,gm_2239_1406_12.png OK
+T2:seq=177,gm_2239_1403_12.png OK
+T1:seq=184,gm_2240_1392_12.png OK
+T7:seq=182,gm_2240_1390_12.png OK
+T4:seq=179,gm_2239_1405_12.png OK
+T6:seq=181,gm_2240_1389_12.png OK
+T3:seq=178,gm_2239_1404_12.png OK
+T8:seq=183,gm_2240_1391_12.png OK
+T5:seq=188,gm_2240_1396_12.png OK
+T2:seq=185,gm_2240_1393_12.png OK
+T1:seq=192,gm_2240_1400_12.png OK
+T7:seq=190,gm_2240_1398_12.png OK
+T4:seq=187,gm_2240_1395_12.png OK
+T6:seq=189,gm_2240_1397_12.png OK
+T3:seq=186,gm_2240_1394_12.png OK
+T8:seq=191,gm_2240_1399_12.png OK
+T5:seq=196,gm_2240_1404_12.png OK
+T2:seq=193,gm_2240_1401_12.png OK
+T1:seq=200,gm_2241_1390_12.png OK
+T7:seq=198,gm_2240_1406_12.png OK
+T4:seq=195,gm_2240_1403_12.png OK
+T6:seq=197,gm_2240_1405_12.png OK
+T3:seq=194,gm_2240_1402_12.png OK
+T8:seq=199,gm_2241_1389_12.png OK
+T5:seq=204,gm_2241_1394_12.png OK
+T2:seq=201,gm_2241_1391_12.png OK
+T1:seq=208,gm_2241_1398_12.png OK
+T7:seq=206,gm_2241_1396_12.png OK
+T4:seq=203,gm_2241_1393_12.png OK
+T6:seq=205,gm_2241_1395_12.png OK
+T3:seq=202,gm_2241_1392_12.png OK
+T8:seq=207,gm_2241_1397_12.png OK
+T5:seq=212,gm_2241_1402_12.png OK
+T2:seq=209,gm_2241_1399_12.png OK
+T1:seq=216,gm_2241_1406_12.png OK
+T7:seq=214,gm_2241_1404_12.png OK
+T6:seq=213,gm_2241_1403_12.png OK
+T3:seq=210,gm_2241_1400_12.png OK
+T4:seq=211,gm_2241_1401_12.png OK
+T8:seq=215,gm_2241_1405_12.png OK
+T5 Finished.
+T2 Finished.
+T1 Finished.
+T7 Finished.
+T6 Finished.
+T3 Finished.
+T4 Finished.
+T8 Finished.
+
+--------------------------------
+Task Stoped!
+
+Now time:8.7.2012 22:35:52
+
+Log file has been saved as C:\Users\4RW\Desktop\brno_mapa\newtask_log.txt

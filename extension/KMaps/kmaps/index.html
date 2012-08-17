@@ -1,0 +1,190 @@
+<HTML>
+<HEAD>
+<TITLE>KMaps</TITLE>
+<script language="javascript" type="application/javascript">
+var debug = 0;
+var pos_t = 1389;
+var pos_l = 2230;
+var mapdir="brno_mapa/newtask/";
+var img_prefix="gm_";
+var img_suffix="_12.png";
+
+function clickRight(){
+
+	pos_l=pos_l+1;
+	map_redraw();
+	}
+function clickLeft(){
+	pos_l=pos_l-1;
+	map_redraw();
+	}
+function clickUp(){
+	pos_t = pos_t-1;
+	map_redraw();
+}
+function clickDown(){
+	pos_t = pos_t+1;
+	map_redraw();
+	}
+function map_redraw(){
+	var i,j;
+	for (i=1; i<=3; i++){
+		for (j=1; j<=3; j++){
+			var coordx=pos_l+j-1;
+			var coordy=pos_t+i-1;
+if(debug==1){			document.getElementById(i+"_"+j).innerHTML = "["+coordx+";"+coordy+"]";}
+			newImage = "url("+mapdir+img_prefix+coordx+"_"+coordy+img_suffix+")";
+			document.getElementById(i+"_"+j).style.backgroundImage = newImage;
+
+			}
+		}
+	}
+</script>
+<style type="text/css">
+#apRight {
+	position:absolute;
+	width:100px;
+	height:568px;
+	z-index:1;
+	left: 499px;
+	top: 101px;
+	font-size: 58px;
+	text-align: center;
+}
+#apLeft {
+	position:absolute;
+	width:100px;
+	height:568px;
+	z-index:1;
+	left: 1px;
+	top: 101px;
+	font-size: 58px;
+	text-align: center;
+}
+#apUp {
+	position:absolute;
+	width:598px;
+	height:100px;
+	z-index:1;
+	left: 1px;
+	top: 0px;
+	font-size: 50px;
+	text-align: center;
+}
+#apDown {
+	position:absolute;
+	width:598px;
+	height:100px;
+	z-index:1;
+	left: 1px;
+	top: 670px;
+	font-size: 50px;
+	text-align: center;
+}
+</style>
+</HEAD>
+<style type="text/css">
+#main{
+	width:600px;
+	height:770px;
+	border-width: 0px;
+	display:block;
+	background-color: #666;
+	margin: 0px;
+	padding: 0px;
+	overflow:hidden;
+	}
+#menu{
+	padding:10px;
+	display: none;
+	}
+
+body{
+	margin:0px;
+	padding: 0px;}
+#1_1{
+	
+	background-image:url(brno_mapa/newtask/gm_2230_1389_12.png);
+	background-repeat:no-repeat;
+	background-position:left;}
+#1_2{
+	
+	background-image:url(brno_mapa/newtask/gm_2231_1389_12.png);
+	background-repeat:no-repeat;
+	background-position:left;}
+#1_3{
+	
+	background-image:url(brno_mapa/newtask/gm_2232_1389_12.png);
+	background-repeat:no-repeat;
+	background-position:left;}
+#2_1{
+	
+	background-image:url(brno_mapa/newtask/gm_2230_1390_12.png);
+	background-repeat:no-repeat;
+	background-position:left;}
+#2_2{
+	
+	background-image:url(brno_mapa/newtask/gm_2231_1390_12.png);
+	background-repeat:no-repeat;
+	background-position:left;}
+#2_3{
+	
+	background-image:url(brno_mapa/newtask/gm_2232_1390_12.png);
+	background-repeat:no-repeat;
+	background-position:left;}
+#3_1{
+	
+	background-image:url(brno_mapa/newtask/gm_2230_1391_12.png);
+	background-repeat:no-repeat;
+	background-position:left;}
+#3_2{
+	
+	background-image:url(brno_mapa/newtask/gm_2231_1391_12.png);
+	background-repeat:no-repeat;
+	background-position:left;}
+#3_3{
+	
+	background-image:url(brno_mapa/newtask/gm_2232_1391_12.png);
+	background-repeat:no-repeat;
+	background-position:left;}
+</style>
+<BODY>
+<script language="javascript">
+var maplist = new Array();
+var selectedMap = "";
+</script>
+<div id="main">
+<div id="menu">
+<center>
+KMaps Menu
+</center>
+</div>
+<div id="map" style="overflow:hidden;">
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td id="1_1" width="256px" height="256px">Debug</td>
+    <td id="1_2" width="256px">&nbsp;</td>
+    <td id="1_3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td id="2_1" height="256px">&nbsp;</td>
+    <td id="2_2">&nbsp;</td>
+    <td id="2_3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td id="3_1" height="256px">&nbsp;</td>
+    <td id="3_2">&nbsp;</td>
+    <td id="3_3">&nbsp;</td>
+  </tr>
+</table>
+Debug:<span id="debug">&nbsp;</span>
+
+<!--JS generated-->
+</div>
+</div>
+<a href="#"><div id="apRight" onClick="clickRight();"><br><br><br><br>&gt;</div></a>
+<a href="#"><div id="apLeft" onClick="clickLeft();"><br><br><br><br>&lt;</div></a>
+<a href="#"><div id="apUp" onClick="clickUp();">&and;</div></a>
+<a href="#"><div id="apDown" onClick="clickDown();">&or;</div></a>
+</body>
+</html>
