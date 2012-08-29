@@ -1,3 +1,8 @@
 *** HERE will be scripts for map creation ***
-downloader - python script for map downloading 
+//DEPRECATED downloader - python script for map downloading 
 map_convert - photoshop files needed to optimize maps for kindle
+
+===============
+MAP DOWNLOADING
+===============
+to download maps use GMapCatcher from http://code.google.com/p/gmapcatcher/ some sort of howto will be added later
